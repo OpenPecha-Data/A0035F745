@@ -1,0 +1,22 @@
+id: A0035F745
+title: Toh_212-The_Sutra_on_Dependent_Arising-v1
+type: translation
+pechas:
+- I7D525FFD
+- I9732B30F
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2019-01-30T02:39:49.589Z'
+  creationid: TF
+  eft-text-id: UT22084-062-012
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_212-The_Sutra_on_Dependent_Arising-v1
+alignment_to_base:
+  I7D525FFD/A766: 3A4A
+  I9732B30F/16D4: 3A4A
